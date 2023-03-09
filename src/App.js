@@ -3,7 +3,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
       <Details
         access="✔"
         img="https://thumbs.dreamstime.com/b/cute-boy-face-cartoon-cute-boy-face-cartoon-vector-illustration-graphic-design-110654225.jpg"
